@@ -1,0 +1,24 @@
+{
+  "name": "para-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Win-DoW/Para-Web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Win-DoW/Para-Web/issues"
+  },
+  "homepage": "https://github.com/Win-DoW/Para-Web#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "kakaocert": "^2.50.0",
+    "nodemon": "^2.0.15"
+  }
+}

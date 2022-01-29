@@ -71,7 +71,7 @@ app.get("/requestESign", (req, res) => {
     isVerifyNameYN: false,
 
     // 전자서명할 토큰 원문
-    Token: "Token Value",
+    Token: "여기에 서명하세요",
 
     // PayLoad, 이용기관이 생성한 payload(메모) 값
     PayLoad: "Payload",
